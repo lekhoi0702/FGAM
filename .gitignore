@@ -1,0 +1,32 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.temp
+
+# IDEs and Editors
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Backend Project Outputs
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug/
+**/[Rr]elease/
+
+# Frontend Project Outputs & Dependencies
+**/node_modules/
+**/dist/
+**/dist-ssr/
+**/*.local
+**/npm-debug.log*
+**/.npm-cache/
+**/yarn-error.log*
+**/pnpm-debug.log*
+CODEX.md

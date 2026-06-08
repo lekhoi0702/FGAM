@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Warehouse Access</string>
+    <string name="title_activity_main">Warehouse Access</string>
+    <string name="package_name">com.jiahsin.warehouseaccess</string>
+    <string name="custom_url_scheme">com.jiahsin.warehouseaccess</string>
+</resources>
