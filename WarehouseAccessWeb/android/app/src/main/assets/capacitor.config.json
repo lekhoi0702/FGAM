@@ -1,0 +1,12 @@
+{
+	"appId": "com.jiahsin.warehouseaccess",
+	"appName": "Warehouse Access",
+	"webDir": "dist",
+	"server": {
+		"cleartext": true,
+		"androidScheme": "https"
+	},
+	"android": {
+		"allowMixedContent": true
+	}
+}
